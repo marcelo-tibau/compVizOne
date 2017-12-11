@@ -1,2 +1,2 @@
 # compVizOne
-Repository to hold some tests regarging javascript visual library D3.
+Repository to hold some tests regarding javascript visual library D3.
